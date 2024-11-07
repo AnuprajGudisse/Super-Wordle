@@ -1,0 +1,4 @@
+Flask
+flask-cors
+openai  # For LLM interaction (if using OpenAI)
+google-generativeai

@@ -1,0 +1,201 @@
+{
+    "superheroes": [
+      {
+        "name": "Spider-Man",
+        "universe": "Marvel"
+      },
+      {
+        "name": "Iron Man",
+        "universe": "Marvel"
+      },
+      {
+        "name": "Thor",
+        "universe": "Marvel"
+      },
+      {
+        "name": "Captain America",
+        "universe": "Marvel"
+      },
+      {
+        "name": "Hulk",
+        "universe": "Marvel"
+      },
+      {
+        "name": "Black Widow",
+        "universe": "Marvel"
+      },
+      {
+        "name": "Doctor Strange",
+        "universe": "Marvel"
+      },
+      {
+        "name": "Wolverine",
+        "universe": "Marvel"
+      },
+      {
+        "name": "Black Panther",
+        "universe": "Marvel"
+      },
+      {
+        "name": "Ant-Man",
+        "universe": "Marvel"
+      },
+      {
+        "name": "Scarlet Witch",
+        "universe": "Marvel"
+      },
+      {
+        "name": "Superman",
+        "universe": "DC"
+      },
+      {
+        "name": "Batman",
+        "universe": "DC"
+      },
+      {
+        "name": "Wonder Woman",
+        "universe": "DC"
+      },
+      {
+        "name": "The Flash",
+        "universe": "DC"
+      },
+      {
+        "name": "Aquaman",
+        "universe": "DC"
+      },
+      {
+        "name": "Green Lantern",
+        "universe": "DC"
+      },
+      {
+        "name": "Cyborg",
+        "universe": "DC"
+      },
+      {
+        "name": "Green Arrow",
+        "universe": "DC"
+      },
+      {
+        "name": "Shazam",
+        "universe": "DC"
+      },
+      {
+        "name": "Martian Manhunter",
+        "universe": "DC"
+      },
+      {
+        "name": "Harley Quinn",
+        "universe": "DC"
+      },
+      {
+        "name": "Deadpool",
+        "universe": "Marvel"
+      },
+      {
+        "name": "Silver Surfer",
+        "universe": "Marvel"
+      },
+      {
+        "name": "Captain Marvel",
+        "universe": "Marvel"
+      },
+      {
+        "name": "Daredevil",
+        "universe": "Marvel"
+      },
+      {
+        "name": "Luke Cage",
+        "universe": "Marvel"
+      },
+      {
+        "name": "Iron Fist",
+        "universe": "Marvel"
+      },
+      {
+        "name": "Ghost Rider",
+        "universe": "Marvel"
+      },
+      {
+        "name": "Blade",
+        "universe": "Marvel"
+      },
+      {
+        "name": "Hellboy",
+        "universe": "Dark Horse"
+      },
+      {
+        "name": "Spawn",
+        "universe": "Image"
+      },
+      {
+        "name": "Invincible",
+        "universe": "Image"
+      },
+      {
+        "name": "The Tick",
+        "universe": "New England Comics"
+      },
+      {
+        "name": "Judge Dredd",
+        "universe": "2000 AD"
+      },
+      {
+        "name": "Atom Eve",
+        "universe": "Image"
+      },
+      {
+        "name": "Shadowman",
+        "universe": "Valiant"
+      },
+      {
+        "name": "Bloodshot",
+        "universe": "Valiant"
+      },
+      {
+        "name": "Ninjak",
+        "universe": "Valiant"
+      },
+      {
+        "name": "Eternal Warrior",
+        "universe": "Valiant"
+      },
+      {
+        "name": "X-O Manowar",
+        "universe": "Valiant"
+      },
+      {
+        "name": "Red Sonja",
+        "universe": "Dynamite"
+      },
+      {
+        "name": "Green Hornet",
+        "universe": "Dynamite"
+      },
+      {
+        "name": "Shadow",
+        "universe": "Dynamite"
+      },
+      {
+        "name": "Dr. Manhattan",
+        "universe": "DC (Watchmen)"
+      },
+      {
+        "name": "Rorschach",
+        "universe": "DC (Watchmen)"
+      },
+      {
+        "name": "The Comedian",
+        "universe": "DC (Watchmen)"
+      },
+      {
+        "name": "Silk Spectre",
+        "universe": "DC (Watchmen)"
+      },
+      {
+        "name": "Ozymandias",
+        "universe": "DC (Watchmen)"
+      }
+    ]
+  }
+  
